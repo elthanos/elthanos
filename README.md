@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**elthanos/elthanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Lefteris! 👋 
+**`Your Friendly Neighborhood IT Guy`**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+
+I am an Information technology specialist with a background in software development and support. At present, my focus is on IT support where I provide seamless operations of businesses. I enjoy automating repetitive tasks and analyzing data to identify important trends.\
+In my page, you will projects reflecting my interests. Feel free to roam around and connect with me as I continue to innovate and simplify the world through technology.
+
+## 📌 Socials
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elthanos/)
+
+
+
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,powershell,r,vscode,windows,gcp&theme=light)](https://skillicons.dev)
