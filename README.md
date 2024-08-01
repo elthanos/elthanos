@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 I am an Information technology specialist with a background in software development and support. At present, my focus is on IT support where I provide seamless operations of businesses. I enjoy automating repetitive tasks and analyzing data to identify important trends.\
-In my page, you will projects reflecting my interests. Feel free to roam around and connect with me as I continue to innovate and simplify the world through technology.
+In my page, you will find projects reflecting my interests. Feel free to roam around and connect with me as I continue to innovate and simplify the world through technology.
 
 ## 📌 Socials
 
